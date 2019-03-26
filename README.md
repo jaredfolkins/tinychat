@@ -4,7 +4,7 @@ A simple toy telnet chat server built in 5 hours
 
 ## Run Server
 
-```git clone github.com/jaredfolkins/tinychat``` 
+```git clone https://github.com/jaredfolkins/tinychat``` 
 
 ```$ ./run.sh```
 
