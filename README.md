@@ -4,7 +4,7 @@ A simple toy telnet chat server built in 5 hours
 
 ### Supported Go Version
 
-```1.11>```
+```>=1.11```
 
 ## Clone Server
 
