@@ -75,6 +75,6 @@ blast a message to all connected clients
 - [ ] An HTTP API to post messages
 - [ ] An HTTP API to query for messages
 
-## Test Converage
+## Test Coverage
 
 coverage: 28.3% of statements
