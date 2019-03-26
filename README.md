@@ -2,9 +2,14 @@
 
 A simple toy telnet chat server built in 5 hours
 
-## Run Server
+### Supported Go Version
+
+```1.11>```
+
+## Clone Server
 
 ```git clone https://github.com/jaredfolkins/tinychat``` 
+
 
 ```$ ./run.sh```
 
